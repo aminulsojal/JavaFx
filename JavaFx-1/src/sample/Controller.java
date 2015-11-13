@@ -20,3 +20,9 @@ class c{
         System.out.println("Testing merge");
     }
 }
+class d{
+    int w;
+    d(){
+        
+    }
+}
