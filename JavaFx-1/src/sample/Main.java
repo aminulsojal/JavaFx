@@ -16,7 +16,7 @@ public class Main extends Application {
         //Parent root = FXMLLoader.load(getClass().getResource("sample.fxml"));
         primaryStage.setTitle("Hello World");
         FlowPane root = new FlowPane();
-        primaryStage.setScene(new Scene(root, 300, 275));
+        primaryStage.setScene(new Scene(root, 500, 500));
         Circle c = new Circle(200,150,50);
         c.setFill(Color.RED);
         c.setVisible(true);
