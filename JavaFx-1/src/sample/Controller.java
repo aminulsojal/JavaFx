@@ -14,3 +14,9 @@ class b{
          System.out.println("Testing git");
     }
 }
+class c{
+    int ab;
+    c(){
+        System.out.println("Testing merge");
+    }
+}
