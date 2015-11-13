@@ -21,8 +21,14 @@ class c{
     }
 }
 class d{
-    int w;
-    d(){
-        
-    }
+        int w;
+        d(){
+
+        }
+
+    class e{
+        int w;
+        e(){
+
+        }
 }
